@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='EEE_Bluetooth_2019'
